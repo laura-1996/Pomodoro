@@ -10,7 +10,7 @@ html {
 
 body {
   background-color: #1E213F;
-  font-family: -apple-system, Kumbh Sans, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: -apple-system,BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   user-select: none;
 }
 
@@ -136,4 +136,3 @@ button:focus, button:active {
   }
 }
 
-/*# sourceMappingURL=styles.css.map */
